@@ -12,7 +12,7 @@ go:
 
 dist: bionic
 
-go_import_path: github.com/albenik/go-serial
+go_import_path: github.com/desertbit/serial
 
 env:
   - GOOS=linux GOARCH=386
@@ -40,6 +40,6 @@ script:
 notifications:
   email:
     recipients:
-      - albenik@gmail.com
+      - desertbit@gmail.com
     on_success: change
     on_failure: always

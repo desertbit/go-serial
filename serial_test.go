@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/albenik/go-serial/v2"
+	"github.com/desertbit/serial"
 )
 
 func TestPort_Nil_SetDTR(t *testing.T) {

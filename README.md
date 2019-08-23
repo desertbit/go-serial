@@ -1,26 +1,18 @@
-# github.com/albenik/go-serial/v2
-
-[![Build Status](https://travis-ci.org/albenik/go-serial.svg?branch=v2)](https://travis-ci.org/albenik/go-serial)
-
-**Package updated to v2 version**
+# github.com/desertbit/serial
 
 A cross-platform serial library for Go.
 
-Forked from [github.com/bugst/go-serial](https://github.com/bugst/go-serial) and now developing independently.
-
-Many ideas were took from [github.com/bugst/go-serial](https://github.com/bugst/go-serial) and [github.com/pyserial/pyserial](https://github.com/pyserial/pyserial).
-
-Any PR-s are welcome.
+Forked from [https://github.com/albenik/serial](https://github.com/albenik/serial).
 
 ## INSTALL
 
 ```
-go get -u github.com/albenik/go-serial/v2
+go get -u github.com/desertbit/serial
 ```
 
 ## Documentation and examples
 
-See the godoc here: https://godoc.org/github.com/albenik/go-serial
+See the godoc here: https://godoc.org/github.com/desertbit/serial
 
 ## License
 

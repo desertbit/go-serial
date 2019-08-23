@@ -1,6 +1,6 @@
 //
 // Copyright 2014-2018 Cristian Maglie. All rights reserved.
-// Copyright 2019 Veniamin Albaev <albenik@gmail.com>
+// Copyright 2019 Veniamin Albaev <desertbit@gmail.com>
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 //
@@ -20,7 +20,7 @@ import (
 	"go.uber.org/multierr"
 	"golang.org/x/sys/unix"
 
-	"github.com/albenik/go-serial/v2/unixutils"
+	"github.com/desertbit/serial/unixutils"
 )
 
 var zeroByte = []byte{0}
